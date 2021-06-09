@@ -2,7 +2,7 @@
 
 I'm [Xander](https://xanderhere.netlify.app)! 
 
-I'd like to do project that interesting.
+I like to do project that interesting.
 
 :page_with_curl: I'm currently learning:
 - Html
