@@ -16,7 +16,7 @@ I like to do project that interesting.
 
 Feel free to contact me Anytime :telephone_receiver:
 
-[<img src="https://img.icons8.com/fluent/24/000000/gmail-new.png"/>](mailto:hi@xander21here@gmail.com)
+[<img src="https://img.icons8.com/fluent/24/000000/gmail-new.png"/>](mailto:xander21here@gmail.com)
 [<img src="https://img.icons8.com/fluent/24/000000/twitter.png"/>](https://twitter.com/_xanderhere)
 [<img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/>](https://www.instagram.com/_xanderhere)
 [<img src="https://img.icons8.com/fluent/24/000000/linkedin.png"/>](https://www.linkedin.com/in/xander-here)
