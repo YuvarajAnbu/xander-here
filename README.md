@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Xander](https://xanderhere.netlify.app)! 
+I'm [Xander](https://xanderhere.com)! 
 
 I like to do project that interesting.
 
